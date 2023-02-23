@@ -1,0 +1,27 @@
+.contact-section{
+    
+    background-color: rgb(48, 37, 37);
+    color: blanchedalmond;
+}
+.contact-content{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.contact-info{
+    font-size: 18px;
+    
+    
+}
+.contact-info i{
+    
+    width: 30px;
+    
+    
+
+}
+.section-heading {
+    text-align: center;
+}
+
+
